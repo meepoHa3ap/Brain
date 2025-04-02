@@ -4,3 +4,32 @@ p{
 h1{
     color: brown;
 }
+
+h2{
+    color: green;
+}
+
+.important{
+    color: red;
+}
+
+#special-heading{
+    color: purple;
+}
+
+.container{
+    background-color: gray;
+    padding: 20px;
+}
+
+.container p{
+    font-size: 16px;
+}
+
+.container h1{
+    font-size: 24px;
+}
+
+.container h2{
+    font-size: 20px;
+}

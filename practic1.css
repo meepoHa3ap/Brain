@@ -10,6 +10,8 @@
 .footer {
     background-color: blue;
     text-align: center;
+    height: 50px;
+    clear: both;
 }
 .text-red {
     color: red;
@@ -27,4 +29,12 @@
 
 .heading{
     background-color: aqua;
+    overflow: hidden;
+}
+
+.block1 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid 000;
+    float: left;
 }

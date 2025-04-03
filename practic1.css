@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    background-color: rgb(123, 127, 162);
+}
+.footer {
+    background-color: blue;
+    text-align: center;
+}
+.text-red {
+    color: red;
+}
+
+.block  {
+    border: 5px solid;
+    width: 350px;
+    height: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 18px;
+}
+
+.heading{
+    background-color: aqua;
+}
